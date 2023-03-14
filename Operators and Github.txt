@@ -1,0 +1,70 @@
+Variables and Datatypes
+
+User Input
+
+Operators:-
+
+To perform Operations between two Operands
+
+a + b
+
+1) Arithmetic Operators:-
+
++
+-
+*
+/
+%
+++ increament
+-- decrement
+
+
+2) Assignment Operators:-
+
+=
++=
+-=
+*=
+/=
+%=
+
+3) Comparison Operators or relational Operators:-
+
+Boolean Values:-
+
+0 and 1
+
+0- False
+1- True
+
+==
+>
+<
+>=
+<=
+!=
+
+4) Logical Operators:-
+
+--> Logical AND-- Returns True if both the statements were true
+    &&
+
+--> Logical OR-- Returns True if one of the statements were true
+    ||
+
+--> Logical NOT-- Reverse the result, It returns false if the 
+statement is true
+    !
+
+
+5) Bitwise Operator-- C++
+
+6) Size of Operator:-
+To Find the size of Data types
+
+int,float,char,double
+
+
+Github-- Server
+
+To store the files from local PC to git server we will use github
